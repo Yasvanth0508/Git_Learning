@@ -1,8 +1,5 @@
 Yasvanth
 Rakesh
 Darshan
-<<<<<<< Updated upstream
 vibakar
-=======
 vasanthan 
->>>>>>> Stashed changes
