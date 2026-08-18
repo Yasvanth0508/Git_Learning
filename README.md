@@ -1,4 +1,4 @@
 # Git_Learning
 Learning Yasva Commands 
 
-Merge Conflicts yasvanth 
+Merge Conflicts Rakesh 
